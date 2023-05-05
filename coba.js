@@ -6,3 +6,6 @@ function name(params) {
     var x = b
     var s = c
 }
+do {
+    
+} while (condition);
